@@ -6,7 +6,7 @@ There are a lot of beautiful landing page templates. They are built using variou
 
 If you want to submit your page, please fork this project and submit a PR.
 
-### Landing Page
+### Open source project
 
 - [https://github.com/nordicgiant2/react-nice-resume](https://github.com/nordicgiant2/react-nice-resume)
 
@@ -83,6 +83,104 @@ If you want to submit your page, please fork this project and submit a PR.
 - [https://github.com/Jaredk3nt/homepage](https://github.com/Jaredk3nt/homepage)
 
 - [https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages)
+
+### Landing page collection
+
+- [https://unbounce.com/landing-page-templates/](https://unbounce.com/landing-page-templates/)
+
+- [https://unbounce.com/landing-page-template/freshgoods/](https://unbounce.com/landing-page-template/freshgoods/)
+
+- [https://themeforest.net/category/marketing/landing-pages](https://themeforest.net/category/marketing/landing-pages)
+
+- [https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp)
+
+- [https://startbootstrap.com/themes/landing-pages/](https://startbootstrap.com/themes/landing-pages/)
+
+- [https://onepagelove.com/templates/landing-page-templates](https://onepagelove.com/templates/landing-page-templates)
+
+- [https://elements.envato.com/web-templates/landing-page-templates](https://elements.envato.com/web-templates/landing-page-templates)
+
+- [https://wix.com/website/templates/html/landing-pages](https://wix.com/website/templates/html/landing-pages)
+
+- [https://www.templatemonster.com/landing-page-templates.php](https://www.templatemonster.com/landing-page-templates.php)
+
+- [https://www.creative-tim.com/bootstrap-themes/landing-page](https://www.creative-tim.com/bootstrap-themes/landing-page)
+
+- [https://business.tutsplus.com/articles/mobile-app-landing-page--cms-32098](https://business.tutsplus.com/articles/mobile-app-landing-page--cms-32098)
+
+- [https://business.tutsplus.com/articles/product-landing-page-examples--cms-32174](https://business.tutsplus.com/articles/product-landing-page-examples--cms-32174)
+
+- [https://webflow.com/templates/html/launcher-one-page-website-template](https://webflow.com/templates/html/launcher-one-page-website-template)
+
+- [https://www.abtasty.com/blog/bootstrap-landing-page-templates/](https://www.abtasty.com/blog/bootstrap-landing-page-templates/)
+
+- [https://www.mailerlite.com/landing-page-examples](https://www.mailerlite.com/landing-page-examples)
+
+- [https://creativemarket.com/templates/websites/landing-pages](https://creativemarket.com/templates/websites/landing-pages)
+
+- [https://colorlib.com/wp/templates/](https://colorlib.com/wp/templates/)
+
+- [https://templated.co/](https://templated.co/)
+
+- [https://www.templatemonster.com/](https://www.templatemonster.com/)
+
+- [https://www.free-css.com/free-css-templates](https://www.free-css.com/free-css-templates)
+
+- [https://templatemo.com/](https://templatemo.com/)
+
+- [https://mobirise.com/bootstrap-template/homepage-template/](https://mobirise.com/bootstrap-template/homepage-template/)
+
+### Landing page tutorial
+
+- [https://www.learnworlds.com/course-landing-page-with-examples/](https://www.learnworlds.com/course-landing-page-with-examples/)
+
+- [https://foundr.com/online-course-landing-page](https://foundr.com/online-course-landing-page)
+
+- [https://mdbootstrap.com/education/bootstrap/landing-page-lesson-1/](https://mdbootstrap.com/education/bootstrap/landing-page-lesson-1/)
+
+- [https://instapage.com/blog/landing-page-tutorial](https://instapage.com/blog/landing-page-tutorial)
+
+- [https://mailchimp.com/help/create-a-landing-page/](https://mailchimp.com/help/create-a-landing-page/)
+
+- [https://webflow.com/feature/landing-page-tutorial](https://webflow.com/feature/landing-page-tutorial)
+
+- [https://www.crazyegg.com/blog/landing-page-essentials/](https://www.crazyegg.com/blog/landing-page-essentials/)
+
+- [https://www.javatpoint.com/landing-pages](https://www.javatpoint.com/landing-pages)
+
+- [https://www.youtube.com/watch?v=cKFy0SFZBdM](https://www.youtube.com/watch?v=cKFy0SFZBdM)
+
+- [https://www.youtube.com/watch?v=K8BigvW7sZU](https://www.youtube.com/watch?v=K8BigvW7sZU)
+
+- [https://www.mailerlite.com/video-tutorials/landing-page](https://www.mailerlite.com/video-tutorials/landing-page)
+
+- [https://unbounce.com/how-to-create-a-landing-page/](https://unbounce.com/how-to-create-a-landing-page/)
+
+- [https://workshops.unbounce.com/workshop/learn-to-create-an-unbounce-landing-page-from-scratch/](https://workshops.unbounce.com/workshop/learn-to-create-an-unbounce-landing-page-from-scratch/)
+
+- [https://neilpatel.com/blog/beginners-guide-to-landing-pages/](https://neilpatel.com/blog/beginners-guide-to-landing-pages/)
+
+- [https://medium.com/better-programming/how-to-build-a-landing-page-in-ten-minutes-11931e7f01f7](https://medium.com/better-programming/how-to-build-a-landing-page-in-ten-minutes-11931e7f01f7)
+
+- [https://medium.com/better-programming/how-to-build-a-landing-page-in-ten-minutes-11931e7f01f7](https://medium.com/better-programming/how-to-build-a-landing-page-in-ten-minutes-11931e7f01f7)
+
+- [https://websitesetup.org/bootstrap-tutorial-for-beginners/](https://websitesetup.org/bootstrap-tutorial-for-beginners/)
+
+- [https://www.wix.com/blog/2015/11/create-a-powerful-free-landing-page-in-under-an-hour/](https://www.wix.com/blog/2015/11/create-a-powerful-free-landing-page-in-under-an-hour/)
+
+- [https://academy.hubspot.com/lessons/creating-landing-pages-in-hubspot](https://academy.hubspot.com/lessons/creating-landing-pages-in-hubspot)
+
+- [https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/](https://www.freecodecamp.org/news/learn-bootstrap-4-in-30-minute-by-building-a-landing-page-website-guide-for-beginners-f64e03833f33/)
+
+- [https://elementor.com/blog/create-wordpress-landing-page/](https://elementor.com/blog/create-wordpress-landing-page/)
+
+- [https://optinmonster.com/how-to-create-a-landing-page/](https://optinmonster.com/how-to-create-a-landing-page/)
+
+- [https://thrivetracker.com/blog/how-to-build-a-simple-landing-page-using-dreamweaver/](https://thrivetracker.com/blog/how-to-build-a-simple-landing-page-using-dreamweaver/)
+
+- [https://www.wpbeginner.com/wp-tutorials/how-to-create-a-landing-page-with-wordpress/](https://www.wpbeginner.com/wp-tutorials/how-to-create-a-landing-page-with-wordpress/)
+
+- [https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages](https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages)
 
 
 ## License
