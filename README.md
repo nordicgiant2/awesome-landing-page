@@ -182,6 +182,41 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages](https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages)
 
+### Landing design resources
+
+- [https://cssauthor.com/landing-page-templates-psd/](https://cssauthor.com/landing-page-templates-psd/)
+
+- [https://designsmaz.com/free-landing-page-psd-templates/](https://designsmaz.com/free-landing-page-psd-templates/)
+
+- [https://speckyboy.com/free-landing-page-psd-web-templates/](https://speckyboy.com/free-landing-page-psd-web-templates/)
+
+- [https://365webresources.com/free-landing-page-single-page-psd-templates/](https://365webresources.com/free-landing-page-single-page-psd-templates/)
+
+- [https://365webresources.com/free-landing-page-single-page-psd-templates/](https://365webresources.com/free-landing-page-single-page-psd-templates/)
+
+- [https://www.template.net/design-templates/psd/psd-landing-page-templates/](https://www.template.net/design-templates/psd/psd-landing-page-templates/)
+
+- [https://freepsdfiles.net/website-templates/free-psd-landing-page-templates](https://freepsdfiles.net/website-templates/free-psd-landing-page-templates)
+
+- [https://utemplates.net/app-landing-page-psd-templates/](https://utemplates.net/app-landing-page-psd-templates/)
+
+- [https://blog.hubspot.com/marketing/landing-page-examples-list](https://blog.hubspot.com/marketing/landing-page-examples-list)
+
+- [https://freebiesbug.com/psd-freebies/free-psd-landing-page/](https://freebiesbug.com/psd-freebies/free-psd-landing-page/)
+
+- [https://bashooka.com/freebie/20-free-landing-page-templates/](https://bashooka.com/freebie/20-free-landing-page-templates/)
+
+- [https://www.graphberry.com/category/themes](https://www.graphberry.com/category/themes)
+
+- [https://dribbble.com/tags/free_landing_page](https://dribbble.com/tags/free_landing_page)
+
+- [https://psdrepo.com/free-psd/product-landing-page-template-2-freebie/](https://psdrepo.com/free-psd/product-landing-page-template-2-freebie/)
+
+- [https://freebies.fluxes.com/portfolio-landing-page-psd-html/](https://freebies.fluxes.com/portfolio-landing-page-psd-html/)
+
+- [https://pinspiry.com/seo-landing-page-free-psd/](https://pinspiry.com/seo-landing-page-free-psd/)
+
+- [https://free-psd-templates.com/25-free-psd-landing-pagesfor-creative-amd-important-ideas/](https://free-psd-templates.com/25-free-psd-landing-pagesfor-creative-amd-important-ideas/)
 
 ## License
 
