@@ -84,6 +84,16 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/gitname/react-gh-pages](https://github.com/gitname/react-gh-pages)
 
+- [https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page](https://github.com/ImedAdel/automatic-gatsbyjs-app-landing-page)
+
+- [https://github.com/xriley/AppKit-Landing-Theme](https://github.com/xriley/AppKit-Landing-Theme)
+
+- [https://github.com/coala/landing-frontend](https://github.com/coala/landing-frontend)
+
+- [https://github.com/ITRav4/PlexRedirect](https://github.com/ITRav4/PlexRedirect)
+
+- [https://github.com/singhkshitij/My-Landing-Page](https://github.com/singhkshitij/My-Landing-Page)
+
 ### Landing page collection
 
 - [https://unbounce.com/landing-page-templates/](https://unbounce.com/landing-page-templates/)
