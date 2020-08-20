@@ -94,6 +94,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/singhkshitij/My-Landing-Page](https://github.com/singhkshitij/My-Landing-Page)
 
+- [https://github.com/sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)
+
 ### Landing page collection
 
 - [https://unbounce.com/landing-page-templates/](https://unbounce.com/landing-page-templates/)
