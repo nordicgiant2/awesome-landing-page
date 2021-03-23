@@ -12,6 +12,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/nordicgiant2/vue-nice-homepage](https://github.com/nordicgiant2/vue-nice-homepage)
 
+- [https://github.com/wonderfullandingpage/mylandingpage](https://github.com/wonderfullandingpage/mylandingpage)
+
 - [https://github.com/nordicgiant2/gh-pages-theme](https://github.com/nordicgiant2/gh-pages-theme)
 
 - [https://github.com/StartBootstrap/startbootstrap-landing-page](https://github.com/StartBootstrap/startbootstrap-landing-page)
