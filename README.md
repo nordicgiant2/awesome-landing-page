@@ -72,6 +72,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/micua/home](https://github.com/micua/home)
 
+- [https://github.com/divyu135/moodify-playlist](https://github.com/divyu135/moodify-playlist)
+
 - [https://github.com/Tomotoes/HomePage](https://github.com/Tomotoes/HomePage)
 
 - [https://github.com/happypeter/happypeter.github.com](https://github.com/happypeter/happypeter.github.com)
