@@ -1,5 +1,7 @@
 # Awesome Landing Page
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 ## 🚀 A series of beautiful and practical landing page templates
 
 There are a lot of beautiful landing page templates. They are built using various front-end technologies. I hope you like them.
