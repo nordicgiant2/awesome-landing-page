@@ -68,6 +68,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/sproogen/modern-resume-theme](https://github.com/sproogen/modern-resume-theme)
 
+- [https://github.com/ahmedhamodi/ahmedhamodi.github.io](https://github.com/ahmedhamodi/ahmedhamodi.github.io)
+
 - [https://github.com/byoungd/Resume-template-for-Coder](https://github.com/byoungd/Resume-template-for-Coder)
 
 - [https://github.com/StartBootstrap/startbootstrap-shop-homepage](https://github.com/StartBootstrap/startbootstrap-shop-homepage)
