@@ -78,6 +78,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/micua/home](https://github.com/micua/home)
 
+- [https://github.com/madzadev/landing-page](https://github.com/madzadev/landing-page)
+
 - [https://github.com/divyu135/moodify-playlist](https://github.com/divyu135/moodify-playlist)
 
 - [https://github.com/Tomotoes/HomePage](https://github.com/Tomotoes/HomePage)
@@ -169,6 +171,8 @@ If you want to submit your page, please fork this project and submit a PR.
 - [https://www.crazyegg.com/blog/landing-page-essentials/](https://www.crazyegg.com/blog/landing-page-essentials/)
 
 - [https://www.javatpoint.com/landing-pages](https://www.javatpoint.com/landing-pages)
+
+- [https://www.madza.dev/blog/create-a-landing-page-in-less-than-100-lines-incl-css](https://www.madza.dev/blog/create-a-landing-page-in-less-than-100-lines-incl-css)
 
 - [https://www.youtube.com/watch?v=cKFy0SFZBdM](https://www.youtube.com/watch?v=cKFy0SFZBdM)
 
