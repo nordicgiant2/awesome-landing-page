@@ -110,6 +110,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/sandoche/Mobile-app-landingpage-template](https://github.com/sandoche/Mobile-app-landingpage-template)
 
+- [https://github.com/JayantGoel001/JayantGoel001.github.io/](https://github.com/JayantGoel001/JayantGoel001.github.io/)
+
 ### Landing page collection
 
 - [https://unbounce.com/landing-page-templates/](https://unbounce.com/landing-page-templates/)
