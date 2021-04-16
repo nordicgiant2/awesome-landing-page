@@ -18,7 +18,7 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/wonderfullandingpage/Technology-LandingPage](https://github.com/wonderfullandingpage/Technology-LandingPage)
 
-- [https://github.com/wonderfullandingpage/exquisite-resume](https://github.com/wonderfullandingpage/exquisite-resume)
+- [https://github.com/wonderfullandingpage/react-exquisite-resume](https://github.com/wonderfullandingpage/react-exquisite-resume)
 
 - [https://github.com/nordicgiant2/gh-pages-theme](https://github.com/nordicgiant2/gh-pages-theme)
 
