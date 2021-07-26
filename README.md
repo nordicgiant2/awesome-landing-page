@@ -211,6 +211,7 @@ If you want to submit your page, please fork this project and submit a PR.
 - [https://www.wpbeginner.com/wp-tutorials/how-to-create-a-landing-page-with-wordpress/](https://www.wpbeginner.com/wp-tutorials/how-to-create-a-landing-page-with-wordpress/)
 
 - [https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages](https://www.wordstream.com/blog/ws/2014/02/12/great-landing-pages)
+- [https://www.tutlane.com/tutorial/bootstrap](https://www.tutlane.com/tutorial/bootstrap)
 
 ### Landing design resources
 
