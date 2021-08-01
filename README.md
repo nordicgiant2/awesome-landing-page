@@ -113,6 +113,7 @@ If you want to submit your page, please fork this project and submit a PR.
 - [https://github.com/JayantGoel001/JayantGoel001.github.io/](https://github.com/JayantGoel001/JayantGoel001.github.io/)
 
 -[https://github.com/caarlosdamian/react-website-portafolio/](https://github.com/caarlosdamian/react-website-portafolio/)
+-[https://github.com/doniwirawan/Gradient-Landing-Page/](https://github.com/doniwirawan/Gradient-Landing-Page/)
 
 ### Landing page collection
 
