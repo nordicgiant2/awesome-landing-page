@@ -114,6 +114,8 @@ If you want to submit your page, please fork this project and submit a PR.
 
 -[https://github.com/caarlosdamian/react-website-portafolio/](https://github.com/caarlosdamian/react-website-portafolio/)
 
+-[https://github.com/doniwirawan/Gradient-Landing-Page/](https://github.com/doniwirawan/Gradient-Landing-Page/)
+
 ### Landing page collection
 
 - [https://unbounce.com/landing-page-templates/](https://unbounce.com/landing-page-templates/)
