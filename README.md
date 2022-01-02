@@ -114,7 +114,9 @@ If you want to submit your page, please fork this project and submit a PR.
 
 - [https://github.com/caarlosdamian/react-website-portafolio/](https://github.com/caarlosdamian/react-website-portafolio/)
 
--[https://github.com/doniwirawan/Gradient-Landing-Page/](https://github.com/doniwirawan/Gradient-Landing-Page/)
+- [https://github.com/Blazity/next-saas-starter](https://github.com/Blazity/next-saas-starter)
+- [https://github.com/doniwirawan/Gradient-Landing-Page/](https://github.com/doniwirawan/Gradient-Landing-Page/)
+
 
 ### Landing page collection
 
